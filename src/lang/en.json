@@ -1,7 +1,7 @@
 {
   "common.language-switcher": "{locale, select, en {English} de {Deutsch} fr {Français} other {Unknown}}",
   "common.navigation.discover": "Discover",
-  "common.navigation.home": "Home",
+  "common.navigation.home": "HomePlace",
   "common.navigation.reports": "Reports",
   "common.user-menu.settings": "Settings",
   "common.user-menu.sign-out": "Sign out",
